@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+header {
+    background-color: blue;
+    height: 100px;
+}
+aside {
+    background-color: green;
+    display: inline-block;
+    height: 750px;
+    width: 30%;
+}
+main {
+    background-color: red;
+    float: right;
+    height: 750px;
+    width: 70% ;
+
+}
+footer {
+    background-color: purple;
+    height: 100px;
+}
