@@ -1,0 +1,33 @@
+
+*{
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+#head {
+  background-color: blue;
+  height: 17vh;
+  width: 100%;
+}
+ #min {
+    height: 60vh;
+    width:80%;
+    background-color: rgb(158, 40, 4);
+    float: right;
+
+ }
+  
+ #asid {
+  height: 60vh;
+  width: 20%;
+  background-color: darkgreen;
+ }
+
+ #fot {
+    background-color:purple ;
+    height: 17vh;
+    width: 100%;
+  }
+
+ 
