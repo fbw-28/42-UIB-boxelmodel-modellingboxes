@@ -1,0 +1,84 @@
+header {
+    box-sizing: border-box;
+    background-color:violet;
+    height: 10vh;   
+    width: 100vw;
+}
+.parent {
+    height: 80vh;
+    width: 100vw;
+}
+.block {
+    float: left;
+}
+.sidebar{
+    width: 25vw;
+    height: 80vh;
+    background-color: green;    
+}
+.content{ 
+    width: 75vw;
+    height: 80vh;
+    background-color: red; 
+}
+footer{
+    background-color:violet;
+    height: 10vh;  
+    width: 100vw;
+
+}
+
+
+
+/* 
+
+div parent
+    div figlio1
+    div figlio2
+div  
+
+
+width: 400px;
+height: 400px;
+    
+figlio1 width 50%;
+
+
+
+
+
+
+
+header {
+    background-color: violet;
+    padding-top: 5vh;
+}
+
+.parent {
+    height: 90vh;
+    width: 100%;
+}
+
+
+
+.sidebar {
+    width: 25vw;
+    height: 90vh;
+    background-color: green;
+    float: left;
+}
+
+.content {
+    width: calc (100vw - 25vw);
+    height: 90vh;
+    background-color: red;
+}
+
+footer {
+    background-color: violet;
+    padding-bottom: 5vh;
+}
+
+
+
+*/
