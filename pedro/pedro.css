@@ -1,0 +1,46 @@
+* {
+    font-size: 11px;
+    color: white;
+    margin-top: 0px;
+}
+
+.box1 {
+    width: 100%;
+    min-height: 10vh;
+    background-color: purple;
+}
+
+.box2 {
+    background-color: red;
+    min-height: 60vh;
+    padding-top: 0vh;
+    
+
+}
+
+aside {
+    background-color: green;
+    min-height: 60vh;
+    padding-top: 0vh;
+    float: left;
+    width: 30%;
+    margin: 0px;
+    
+}
+
+
+footer {
+    background-color: rgba(150, 5, 119, 0.781);
+    min-height: 10vh;
+    padding-top: 0vh;
+    width: 100%;
+    text-align: initial;
+}
+
+
+h3 {
+    color: white;
+    font-family: cursive;
+    font-size: 11px;
+}
+
