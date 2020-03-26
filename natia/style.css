@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+.nati {
+    width: 900px;
+    margin: 0 auto;
+    
+}
+
+header {
+    height: 100px;
+    background-color: rgb(97, 18, 224);
+}
+
+aside {
+    height: 400px;
+    width: 20%;
+    background-color: rgb(9, 155, 16);
+    float: left;
+}
+
+main {
+    height: 400px;
+    background-color:red;
+}
+
+footer {
+    height: 100px;
+    background-color: rgb(136, 2, 85);
+
+}
