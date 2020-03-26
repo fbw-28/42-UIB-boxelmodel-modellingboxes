@@ -1,0 +1,36 @@
+header {
+    
+    background-color:violet;
+    height: 10vh;   
+    width: 100vw;
+}
+main {
+    height: 80vh;
+    width: 100vw;
+}
+aside {
+    
+    height: 80ph;
+    width: 100pw;
+    
+}
+.sidebar{
+    width: 25vw;
+    height: 80vh;
+    background-color: green; 
+    float: left;
+
+}
+.content{ 
+    width: 75vw;
+    height: 80vh;
+    background-color: red; 
+    float: right;
+}
+footer{
+    background-color:violet;
+    height: 10vh;  
+    width: 100vw;
+    clear: left;
+
+}
