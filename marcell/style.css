@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+header {
+    display: block;
+    background-color: blue;
+    height: 20vh;
+    width: 100vw;
+
+}
+aside {
+
+background-color: green;
+display: block;
+width: 30%;
+height:60vh;
+float: left;
+
+}
+
+main {
+background-color: red;
+width: 70%;
+height: 60vh;
+float: right;
+}
+
+footer {
+background-color: blueviolet;
+height: 20vh;
+width: 100vw;
+float: left;
+}
