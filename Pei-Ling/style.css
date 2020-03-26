@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color:blue;
+    color: white;
+    min-height: 10vh;
+    width: 100%;
+    display: inline-flex;
+}
+
+#container {
+    width: 100%;
+    background-color: #ffcc33;
+    margin: auto;
+}
+#Sidebar {
+    width: 30%;
+    float: left;
+    height: 300px;
+    background-color: green;
+    color: white;
+}
+#Main {
+    width: 70%;
+    float: right;
+    height: 300px;
+    background-color: red;
+    color: white;
+}
+#clear {
+    clear: both;
+}
+
+footer {
+    background-color: purple;
+    color: white;
+    min-height: 10vh;
+    width: 100%;
+    display: inline-flex;
+}
+
