@@ -9,19 +9,20 @@
 .box-header, .box-footer{
     background-color: purple;
     width: 100vw;
+    height: 5vh;
 }
 
 .box-aside{
     background-color: green;
     width: 20vw;
-    height: 100vh;
+    height: 90vh;
     float: left;
 }
 
 .box-main{
     background-color: red;
     width: 100vw;
-    height: 100vh;
+    height: 90vh;
 
 }
 
